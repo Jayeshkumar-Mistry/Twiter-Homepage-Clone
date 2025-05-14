@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400..800&display=swap");
+@import "tailwindcss";
+@theme {
+  --font-Baloo-Bhai-2: "Baloo Bhai 2", sans-serif;
+}
